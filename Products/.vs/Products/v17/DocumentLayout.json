@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AngularProjects\\ProductsManagment\\Products\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|d:\\angularprojects\\productsmanagment\\products\\presentationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|solutionrelative:presentationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|d:\\angularprojects\\productsmanagment\\products\\presentationapi\\controllers\\category\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|solutionrelative:presentationapi\\controllers\\category\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\features\\products\\addproduct\\addproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\features\\products\\addproduct\\addproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\features\\products\\updateproduct\\updateproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\features\\products\\updateproduct\\updateproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\features\\products\\updateproduct\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\features\\products\\updateproduct\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\features\\products\\getproductbyid\\getproductbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\features\\products\\getproductbyid\\getproductbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\features\\products\\getallproducts\\getallcategoriesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\features\\products\\getallproducts\\getallcategoriesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\features\\products\\deleteproduct\\deleteproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\features\\products\\deleteproduct\\deleteproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\features\\products\\deleteproduct\\deleteproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\features\\products\\deleteproduct\\deleteproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\features\\products\\addproduct\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\features\\products\\addproduct\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6190441F-CE68-427A-9F37-ACFE2593EEB5}|Domain\\Domain.csproj|d:\\angularprojects\\productsmanagment\\products\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6190441F-CE68-427A-9F37-ACFE2593EEB5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|d:\\angularprojects\\productsmanagment\\products\\presentationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|solutionrelative:presentationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|d:\\angularprojects\\productsmanagment\\products\\persistance\\migrations\\20241130193112_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|solutionrelative:persistance\\migrations\\20241130193112_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|d:\\angularprojects\\productsmanagment\\products\\persistance\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|solutionrelative:persistance\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|d:\\angularprojects\\productsmanagment\\products\\presentationapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|solutionrelative:presentationapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|d:\\angularprojects\\productsmanagment\\products\\presentationapi\\extensions\\errorhandlerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|solutionrelative:presentationapi\\extensions\\errorhandlerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|d:\\angularprojects\\productsmanagment\\products\\presentationapi\\extensions\\corspolicyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|solutionrelative:presentationapi\\extensions\\corspolicyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|d:\\angularprojects\\productsmanagment\\products\\presentationapi\\extensions\\apibehaviorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|solutionrelative:presentationapi\\extensions\\apibehaviorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|d:\\angularprojects\\productsmanagment\\products\\presentationapi\\controllers\\auth\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|solutionrelative:presentationapi\\controllers\\auth\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|d:\\angularprojects\\productsmanagment\\products\\presentationapi\\auth\\dtos\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|solutionrelative:presentationapi\\auth\\dtos\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|d:\\angularprojects\\productsmanagment\\products\\persistance\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|solutionrelative:persistance\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|d:\\angularprojects\\productsmanagment\\products\\persistance\\persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|solutionrelative:persistance\\persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|d:\\angularprojects\\productsmanagment\\products\\persistance\\common\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|solutionrelative:persistance\\common\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\common\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\common\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|d:\\angularprojects\\productsmanagment\\products\\presentationapi\\auth\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|solutionrelative:presentationapi\\auth\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\features\\products\\getallproducts\\getallcategorieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\features\\products\\getallproducts\\getallcategorieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\features\\products\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\features\\products\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\features\\products\\deleteproduct\\deleteproductmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\features\\products\\deleteproduct\\deleteproductmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\features\\products\\addproduct\\addproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\features\\products\\addproduct\\addproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|d:\\angularprojects\\productsmanagment\\products\\application\\features\\products\\addproduct\\addproductmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65BD303-BF51-4C56-81B5-6986B5EC832B}|Application\\Application.csproj|solutionrelative:application\\features\\products\\addproduct\\addproductmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|d:\\angularprojects\\productsmanagment\\products\\persistance\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|solutionrelative:persistance\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|d:\\angularprojects\\productsmanagment\\products\\presentationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|solutionrelative:presentationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|d:\\angularprojects\\productsmanagment\\products\\presentationapi\\presentationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|solutionrelative:presentationapi\\presentationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|d:\\angularprojects\\productsmanagment\\products\\persistance\\migrations\\20241130193355_initialmigration01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421D2D3C-BC2B-4BA3-91AE-2E961203BF20}|Persistance\\Persistance.csproj|solutionrelative:persistance\\migrations\\20241130193355_initialmigration01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|d:\\angularprojects\\productsmanagment\\products\\presentationapi\\migrations\\20241130193214_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748D2115-4743-4F64-A697-453BB217C1DD}|PresentationApi\\PresentationApi.csproj|solutionrelative:presentationapi\\migrations\\20241130193214_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllCategoriesResponse.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\GetAllProducts\\GetAllCategoriesResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\GetAllProducts\\GetAllCategoriesResponse.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\GetAllProducts\\GetAllCategoriesResponse.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\GetAllProducts\\GetAllCategoriesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:35:04.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241130193355_initialMigration01.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\Migrations\\20241130193355_initialMigration01.cs",
+              "RelativeDocumentMoniker": "Persistance\\Migrations\\20241130193355_initialMigration01.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\Migrations\\20241130193355_initialMigration01.cs",
+              "RelativeToolTip": "Persistance\\Migrations\\20241130193355_initialMigration01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:33:55.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T17:44:45.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProductResponse.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\AddProduct\\AddProductResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\AddProduct\\AddProductResponse.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\AddProduct\\AddProductResponse.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\AddProduct\\AddProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:36:32.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Controllers\\Category\\CategoryController.cs",
+              "RelativeDocumentMoniker": "PresentationApi\\Controllers\\Category\\CategoryController.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Controllers\\Category\\CategoryController.cs",
+              "RelativeToolTip": "PresentationApi\\Controllers\\Category\\CategoryController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:56:12.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PresentationApi\\appsettings.json",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\appsettings.json",
+              "RelativeToolTip": "PresentationApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T19:25:47.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProductRequest.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\UpdateProduct\\UpdateProductRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\UpdateProduct\\UpdateProductRequest.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\UpdateProduct\\UpdateProductRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\UpdateProduct\\UpdateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:35:22.034Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProductResponse.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\UpdateProduct\\UpdateProductResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\UpdateProduct\\UpdateProductResponse.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\UpdateProduct\\UpdateProductResponse.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\UpdateProduct\\UpdateProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:36:59.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetProductByIdResponse.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\GetProductById\\GetProductByIdResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\GetProductById\\GetProductByIdResponse.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\GetProductById\\GetProductByIdResponse.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\GetProductById\\GetProductByIdResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:35:11.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddProductRequest.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\AddProduct\\AddProductRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\AddProduct\\AddProductRequest.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\AddProduct\\AddProductRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\AddProduct\\AddProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:36:31.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:19:02.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteProductRequest.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\DeleteProduct\\DeleteProductRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\DeleteProduct\\DeleteProductRequest.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\DeleteProduct\\DeleteProductRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\DeleteProduct\\DeleteProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:47:18.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteProductResponse.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\DeleteProduct\\DeleteProductResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\DeleteProduct\\DeleteProductResponse.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\DeleteProduct\\DeleteProductResponse.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\DeleteProduct\\DeleteProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:47:27.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241130193214_initialMigration.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Migrations\\20241130193214_initialMigration.cs",
+              "RelativeDocumentMoniker": "PresentationApi\\Migrations\\20241130193214_initialMigration.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Migrations\\20241130193214_initialMigration.cs",
+              "RelativeToolTip": "PresentationApi\\Migrations\\20241130193214_initialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:32:14.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "Application\\ServiceExtension.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\ServiceExtension.cs",
+              "RelativeToolTip": "Application\\ServiceExtension.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:18:32.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "PresentationApi\\WeatherForecast.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\WeatherForecast.cs",
+              "RelativeToolTip": "PresentationApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:24:38.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241130193112_initialMigration.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\Migrations\\20241130193112_initialMigration.cs",
+              "RelativeDocumentMoniker": "Persistance\\Migrations\\20241130193112_initialMigration.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\Migrations\\20241130193112_initialMigration.cs",
+              "RelativeToolTip": "Persistance\\Migrations\\20241130193112_initialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:31:13.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CorsPolicyExtensions.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Extensions\\CorsPolicyExtensions.cs",
+              "RelativeDocumentMoniker": "PresentationApi\\Extensions\\CorsPolicyExtensions.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Extensions\\CorsPolicyExtensions.cs",
+              "RelativeToolTip": "PresentationApi\\Extensions\\CorsPolicyExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:13:46.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationApi\\Program.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Program.cs",
+              "RelativeToolTip": "PresentationApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:05:25.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorHandlerExtensions.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Extensions\\ErrorHandlerExtensions.cs",
+              "RelativeDocumentMoniker": "PresentationApi\\Extensions\\ErrorHandlerExtensions.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Extensions\\ErrorHandlerExtensions.cs",
+              "RelativeToolTip": "PresentationApi\\Extensions\\ErrorHandlerExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:13:47.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Persistance\\ServiceExtensions.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\ServiceExtensions.cs",
+              "RelativeToolTip": "Persistance\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:26:39.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApiBehaviorExtensions.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Extensions\\ApiBehaviorExtensions.cs",
+              "RelativeDocumentMoniker": "PresentationApi\\Extensions\\ApiBehaviorExtensions.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Extensions\\ApiBehaviorExtensions.cs",
+              "RelativeToolTip": "PresentationApi\\Extensions\\ApiBehaviorExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:13:45.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Controllers\\Auth\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "PresentationApi\\Controllers\\Auth\\AuthenticateController.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Controllers\\Auth\\AuthenticateController.cs",
+              "RelativeToolTip": "PresentationApi\\Controllers\\Auth\\AuthenticateController.cs",
+              "ViewState": "AgIAADwBAAAAAAAAAAAiwIMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:01:17.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginUserResponse.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Auth\\DTOs\\LoginUserResponse.cs",
+              "RelativeDocumentMoniker": "PresentationApi\\Auth\\DTOs\\LoginUserResponse.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Auth\\DTOs\\LoginUserResponse.cs",
+              "RelativeToolTip": "PresentationApi\\Auth\\DTOs\\LoginUserResponse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:06:45.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\Common\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Common\\BaseRepository.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\Common\\BaseRepository.cs",
+              "RelativeToolTip": "Persistance\\Common\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:59:02.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Common\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Repositories\\IBaseRepository.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Common\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "Application\\Common\\Repositories\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:56:49.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Persistance\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:25:00.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Persistance.csproj",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\Persistance.csproj",
+              "RelativeDocumentMoniker": "Persistance\\Persistance.csproj",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\Persistance.csproj",
+              "RelativeToolTip": "Persistance\\Persistance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T17:49:56.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Auth\\UserRoles.cs",
+              "RelativeDocumentMoniker": "PresentationApi\\Auth\\UserRoles.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Auth\\UserRoles.cs",
+              "RelativeToolTip": "PresentationApi\\Auth\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:55:09.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeleteProductHandler.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:37:47.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteProductMapper.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\DeleteProduct\\DeleteProductMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\DeleteProduct\\DeleteProductMapper.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\DeleteProduct\\DeleteProductMapper.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\DeleteProduct\\DeleteProductMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:50:06.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetAllCategoriesHandler.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\GetAllProducts\\GetAllCategoriesHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\GetAllProducts\\GetAllCategoriesHandler.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\GetAllProducts\\GetAllCategoriesHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\GetAllProducts\\GetAllCategoriesHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:36:48.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddProductValidator.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\AddProduct\\AddProductValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\AddProduct\\AddProductValidator.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\AddProduct\\AddProductValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\AddProduct\\AddProductValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:36:33.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddProductMapper.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\AddProduct\\AddProductMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\AddProduct\\AddProductMapper.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Application\\Features\\Products\\AddProduct\\AddProductMapper.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\AddProduct\\AddProductMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:36:29.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\Context\\DBContext.cs",
+              "RelativeDocumentMoniker": "Persistance\\Context\\DBContext.cs",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\Persistance\\Context\\DBContext.cs",
+              "RelativeToolTip": "Persistance\\Context\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:27:18.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PresentationApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PresentationApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T18:02:53.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PresentationApi.csproj",
+              "DocumentMoniker": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\PresentationApi.csproj",
+              "RelativeDocumentMoniker": "PresentationApi\\PresentationApi.csproj",
+              "ToolTip": "D:\\AngularProjects\\ProductsManagment\\Products\\PresentationApi\\PresentationApi.csproj",
+              "RelativeToolTip": "PresentationApi\\PresentationApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T17:53:00.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

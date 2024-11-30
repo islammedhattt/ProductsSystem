@@ -1,0 +1,47 @@
+<div *ngIf="showList"  class="product-management-container">
+  <h1 class="header">Product Management</h1>
+  
+  <!-- Action Buttons -->
+  <div class="action-buttons">
+    <button class="btn primary" (click)="loadProducts()">Load Products</button>
+    <button class="btn success" (click)="openCreateForm()">Create Product</button> <!-- Create Product Button -->
+  </div>
+
+  <!-- Product Table -->
+  <div class="table-container" *ngIf="products.length > 0">
+    <table class="product-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Name</th>
+          <th>Price</th>
+          <th>Description</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let product of products; let i = index">
+          <td>{{ i + 1 }}</td>
+          <td>{{ product.name }}</td>
+          <td>${{ product.price }}</td>
+          <td>{{ product.description }}</td>
+          <td class="action-buttons">
+            <button class="btn update" (click)="openUpdateForm(product)">Update</button> <!-- Update Button -->
+            <button class="btn danger" (click)="deleteProduct(product.id)">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <!-- No Products Found -->
+  <div *ngIf="products.length === 0" class="no-products">
+    <p>No products available. Please add some products.</p>
+  </div>
+</div>
+    <!-- Create Product Form -->
+    <app-create-product  (productCreated)="onProductCreated()" *ngIf="showCreateForm"></app-create-product>
+
+    <!-- Update Product Form -->
+    <app-update-product (productUpdated)="onProductupdate()"  *ngIf="showUpdateForm" [product]="selectedProduct"></app-update-product>
+  
+
